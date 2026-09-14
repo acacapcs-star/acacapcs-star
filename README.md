@@ -70,8 +70,8 @@
 | 平台 | 帳號 | 進度 |
 |---|---|---|
 | NTUCPC | [olivialan](https://oj.ntucpc.org/users/olivialan) | 76 題 AC（Loop／Array／String／多維陣列／Function 專題） |
-| TIOJ（資訊之芽） | [olivialan](https://tioj.ck.tp.edu.tw/users/[數字ID]) | 64 題 AC |
-| CSES | [olivialan](https://cses.fi/user/[數字ID]) | Introductory Problems 6 題；另含 Stick Game（賽局）、Counting Divisors（數論） |
+| TIOJ（資訊之芽） | [olivialan](https://tioj.sprout.tw/users/olivialan) | 64 題 AC |
+| CSES | [olivialan](https://cses.fi/user/347743) | Introductory Problems 6 題；另含 Stick Game（賽局）、Counting Divisors（數論） |
 | AtCoder | [olivialan](https://atcoder.jp/users/olivialan) | Boot camp for Beginners：Easy 27/100 · Medium 40/100 |
 
 NTUCPC 的題目中，我挑出 6 題數學性最強的整理成 [math-cpp-portfolio](https://github.com/acacapcs-star/math-cpp-portfolio)。
