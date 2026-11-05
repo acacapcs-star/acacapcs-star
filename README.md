@@ -4,14 +4,68 @@
 
 比起把東西做出來，我更在意能不能說清楚它哪裡不成立。所以每個 repo 都會記錄失敗的實驗、放棄的構想，以及與比賽版本之間的落差。
 
+## 連結清單
+
+PDF 版的學習資料表中，連結無法直接點擊。以下整理所有作品與佐證資料的連結。
+
+### 專案程式碼
+
+| 內容 | 連結 |
+| --- | --- |
+| 拉密 AI Agent（資訊之芽二階大作業延伸） | [GitHub](https://github.com/acacapcs-star/rummikub-ai-agent) · [詳細資料](https://drive.google.com/drive/folders/17GiNeIeJsEVXAvE4xfGt_ykxi-KK-Dxg?usp=sharing) |
+| 地牢英雄 Dungeon Agent（資訊之芽一階大作業） | [GitHub](https://github.com/acacapcs-star/dungeon-agent) · [詳細資料](https://drive.google.com/drive/folders/1CD0Ty97yHZuTU6rm9uw9k7bkT4KE6FRx?usp=sharing) |
+| lii 情緒健康 App v2 | [GitHub](https://github.com/acacapcs-star/lii) |
+| TankMan 坦克大作戰 RL Agent | [GitHub](https://github.com/acacapcs-star/TankMan-RL-Agent) · [FunAI 詳細說明](https://drive.google.com/file/d/1V3cckepyEaNcHFRyVfeu8Q8ItqYAy5xl/view?usp=sharing) |
+| YTP 少年圖靈 AI Agent | [GitHub](https://github.com/acacapcs-star/ytp-arena-agent) |
+| 數學解題作品集 | [GitHub](https://github.com/acacapcs-star/math-cpp-portfolio) |
+| 作品總覽文件 | [Google Drive](https://drive.google.com/file/d/1c9UHSMRdabkAZ_H6xwbQ9E0demYQP567/view?usp=sharing) |
+
+### 競賽簡報與海報
+
+| 內容 | 連結 |
+| --- | --- |
+| lii v2 達文西國際發明展簡報 | [Google Drive](https://drive.google.com/file/d/1G6U1kBfwChgna-WFHcQ49T828gVUuk7j/view?usp=sharing) |
+| lii v2 達文西國際發明展 Demo 影片 | [YouTube](https://youtu.be/5umRRZVvEvk) |
+| 第 23 屆育秀盃創意賽決賽簡報（PsyGuard AI） | [Google Drive](https://drive.google.com/file/d/1XAXdHfhEDtQQUdKRPOKB_UIXeg15t_Fz/view?usp=sharing) |
+| 第 23 屆育秀盃決賽入圍影片 | [YouTube](https://youtu.be/dcJJnQ3q3RE) |
+| 海報 | [Google Drive](https://drive.google.com/file/d/1SnPYNqzwuASP9iCpTkHBjXJXU_GWII5m/view?usp=sharing) |
+| 台灣半導體 IC 營：四子棋詳細說明 | [Google Drive](https://drive.google.com/file/d/1FKepWpDMLTwfZVywW1AMc6RnH8Jngem-/view?usp=sharing) · [營隊資料](https://drive.google.com/drive/folders/14hhr9SR_fk5rdMRpdHOL8SuospxMxPfJ?usp=sharing) |
+| 外交小尖兵英語種籽隊選拔 | [Google Drive](https://drive.google.com/file/d/1apvVwHQ1VrndTryI4obzk26AgPD-Cg9o/view?usp=sharing) |
+
+### 解題紀錄
+
+| 內容 | 連結 |
+| --- | --- |
+| 解題帳號 `olivialan` 總覽 | [Google Drive](https://drive.google.com/file/d/1CYa5RudK47L5y6N_2iYhEo0imSCjW6zF/view?usp=sharing) |
+| NTUCPC 精選解題紀錄 | [Google Drive](https://drive.google.com/file/d/1vaEdYv8NIrIzqF49nCD53BU_JaE23PGa/view?usp=drive_link) |
+
+### 技術筆記與互動展示
+
+| 內容 | 連結 |
+| --- | --- |
+| Flutter 框架基礎 | [HackMD](https://hackmd.io/@acacapcsStar/B1gjbe1QPfx) |
+| Flutter（11 章節） | [HackMD](https://hackmd.io/@acacapcsStar/BysFlsROGl) |
+| Dart 語言基礎（12 章節） | [HackMD](https://hackmd.io/@acacapcsStar/ByZJxQ4wGg) |
+| Dart 語言進階 | [HackMD](https://hackmd.io/@acacapcsStar/HyiZx1mPfl) |
+| 狀態管理互動演繹 | [線上展示](https://monumental-manatee-25d736.netlify.app/state-demo.html) |
+
+### 研究與研習
+
+| 內容 | 連結 |
+| --- | --- |
+| 2026 TAICA 進階研習營紀錄 | [Google Drive](https://drive.google.com/drive/folders/1q73yGmF0GUD75-SJJISMVc3VvH_JXCls?usp=sharing) |
+| 側顱影像 AI 參考的開源程式碼（CL-Detection 2023） | [GitHub](https://github.com/5k5000/CLdetection2023) |
+| 成功大學蘇文鈺教授貼文 | [Facebook](https://www.facebook.com/share/p/1Dbiz1FTzU/) |
+
 ## 一條貫穿的線
 
-五個專案做的其實是同一件事：區分「我以為的」和「實際上的」。
+六個專案做的其實是同一件事：區分「我以為的」和「實際上的」。
 
 - **拉密**：原本規劃遞迴窮舉找最佳解，但為了讓安全回滾鎖每一步可控，改成迭代貪心。`solveRummikub` 保留介面但未實作——這個決定被明確記錄下來，而不是悄悄消失
 - **坦克**：25 項單元測試全部針對獎勵函數。因為方向判斷寫錯不會報錯，訓練照跑、loss 照降，agent 卻永遠學不會瞄準
 - **YTP**：場景偵測是對固定地圖調參，換地圖就退化。這個 trade-off 是刻意的，也寫在 README 裡
 - **lii**：web 版首次載入慢，附 7 天、n=66 的實測數據，而不是含糊帶過
+- **地牢 Dungeon**：自己的測試裡滿血通關，課程成績卻是 33 分。結業後用官方測資逐題比對，公開測資從 0/10 修到 10/10，找出 6 個「每一步單獨看都對，放進順序就錯」的 bug
 - **側顱影像AI**：角度算得出來不等於算得準。我用蒙地卡羅模擬（假設標記點誤差 1.5 px）發現，同樣的點誤差，傳到臂長短的角度上會被放大好幾倍。所以我主張對每一項測量分別估計不確定度，而不是只報一個平均誤差。目前是模擬結果，尚未用真實標記資料驗證。
 
 ## 專案
@@ -22,6 +76,7 @@
 | [lii](https://github.com/acacapcs-star/lii) | 分級式 AI 情緒健康應用。核心設計：風險越高，系統說得越少 | v1 四人團隊 → v2 起獨立迭代開發 | Dart / Flutter |
 | [ytp-arena-agent](https://github.com/acacapcs-star/ytp-arena-agent) | 2026 YTP 競技場自主 agent。場景偵測 → 候選過濾 → beam search → MPC 控制 | 隊長，策略程式碼由我撰寫 | Python |
 | [TankMan-RL-Agent](https://github.com/acacapcs-star/TankMan-RL-Agent) | 用 PPO 訓練坦克決策系統，拆成瞄準／追擊／補給三個子任務 | 三人團隊，我負責 RL 模組 | Python |
+| [dungeon-agent](https://github.com/acacapcs-star/dungeon-agent) | 資訊之芽一階大作業：回合制地牢引擎與「區域壓力場」AI agent，附結業後的除錯檢討 | 個人 | C++ |
 | [math-cpp-portfolio](https://github.com/acacapcs-star/math-cpp-portfolio) | 數理解題紀錄：預處理、BFS 連通性、三維枚舉、離散化誤差控制 | 個人 | C++ |
 
 ## 競賽與獎項
@@ -65,7 +120,6 @@
 | 年 | 項目 | 主辦 | 內容 | 備註 |
 | --- | --- | --- | --- | --- |
 | 2026 起 | 側顱影像頭影測量與誤差分析 | 醫學大學牙醫研究團隊 × 大學資工實驗室 | 頭影測量指標計算與蒙地卡羅誤差傳播；主持跨領域雙語會議 | CS 側負責人；詳見下節 |
-| 2026 起 | 齒顎矯正療效預測與軟組織變化量化研究 | 中國醫藥大學余建宏醫師研究團隊 × 清華大學 MISLAB | 頭影測量指標計算與蒙地卡羅誤差傳播；主持跨領域雙語會議 | CS 側負責人；詳見下節 |
 | 2026 | TAICA 課程助教研習營：機器導航與探索 · 模仿式學習與機器人操縱 | TAICA 聯盟／清大·成大·陽明交大資工系／臺科大 AI 跨域所（教育部指導） | ROS、SLAM 與導航、物件辨識、模仿式學習訓練機器人取放任務 | 第二階段限額 30 人，唯一高中生 |
 | 2026 | IONC 清大資奧研習營 | 清華大學 | 演算法：複雜度、資料結構、DP、圖論、數論與組合、賽局 | 受到審查智囊團的極度肯定——總召寄信證明 |
 
@@ -151,6 +205,7 @@
 - **20 項量測的實作**——依臨床端確認的量測清單，用自己編的座標寫測試
 - **資料增強方案的提案**——分類哪些變換會破壞標記點標籤的正確性。例如側位片有固定朝向，水平翻轉產生的是解剖上不存在的影像，而且會讓 ANB 的正負反轉；旋轉可用但座標必須同步旋轉；縮放對角度無害，但會讓 mm 的距離失真。提案須經審查確認後才進入訓練。
 - **Python／PyTorch**——從 NumPy 到 autograd，用手算驗證 backward
+
 ---
 
 ## 解題紀錄
@@ -226,7 +281,7 @@ TankMan 那個專案我用 Stable Baselines3 跑 PPO，拿到了名次。但那�
 | C++ | 遊戲引擎、演算法、競程 |
 | Python | 強化學習、agent 策略 |
 | Dart | Flutter 跨平台應用 |
-| 醫療影像 | 頭影測量指標計算（SNA／SNB／ANB／FMA／Wits）· 蒙地卡羅誤差傳播 |
+| 醫療影像 | 20 項頭影測量指標計算（SNA／SNB／ANB／FMA 等）· 蒙地卡羅誤差傳播 |
 | 機器人 | ROS · SLAM 與導航 · 模仿式學習 |
 | 工具 | CMake · Docker · Git · Stable Baselines3 · Gymnasium |
 
