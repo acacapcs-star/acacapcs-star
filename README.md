@@ -30,7 +30,7 @@ PDF 版的學習資料表中，連結無法直接點擊。以下整理所有作�
 | 台中市教育局對 lii v2 的行政指導回函 | [Google Drive](https://drive.google.com/file/d/13GRgMr8VnZr1vB89l6Ojg_oBfOxVY6W9/view?usp=sharing) |
 | 第 23 屆育秀盃創意賽決賽簡報（PsyGuard AI） | [Google Drive](https://drive.google.com/file/d/1XAXdHfhEDtQQUdKRPOKB_UIXeg15t_Fz/view?usp=sharing) |
 | 第 23 屆育秀盃決賽入圍影片 | [YouTube](https://youtu.be/dcJJnQ3q3RE) |
-| 海報 | [Google Drive](https://drive.google.com/file/d/1SnPYNqzwuASP9iCpTkHBjXJXU_GWII5m/view?usp=sharing) |
+| lii 情緒健康海報 | [Google Drive](https://drive.google.com/file/d/1SnPYNqzwuASP9iCpTkHBjXJXU_GWII5m/view?usp=sharing) |
 | 台灣半導體 IC 營：四子棋詳細說明 | [Google Drive](https://drive.google.com/file/d/1FKepWpDMLTwfZVywW1AMc6RnH8Jngem-/view?usp=sharing) · [營隊資料](https://drive.google.com/drive/folders/14hhr9SR_fk5rdMRpdHOL8SuospxMxPfJ?usp=sharing) |
 | 外交小尖兵英語種籽隊選拔 | [Google Drive](https://drive.google.com/file/d/1apvVwHQ1VrndTryI4obzk26AgPD-Cg9o/view?usp=sharing) |
 
