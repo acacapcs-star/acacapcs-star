@@ -24,8 +24,8 @@ PDF 版的學習資料表中，連結無法直接點擊。以下整理所有作�
 
 | 內容 | 連結 |
 | --- | --- |
-| lii v2 達文西國際發明展簡報 | [Google Drive](https://drive.google.com/file/d/1G6U1kBfwChgna-WFHcQ49T828gVUuk7j/view?usp=sharing) |
-| lii v2 達文西國際發明展 Demo 影片 | [YouTube](https://youtu.be/5umRRZVvEvk) |
+| lii 情緒健康 App v2 達文西國際發明展簡報 | [Google Drive](https://drive.google.com/file/d/1G6U1kBfwChgna-WFHcQ49T828gVUuk7j/view?usp=sharing) |
+| lii 情緒健康 App v2 達文西國際發明展 Demo 影片 | [YouTube](https://youtu.be/5umRRZVvEvk) |
 | 育秀盃備賽投入證明（指導老師出具） | [Google Drive](https://drive.google.com/file/d/1hD5otjYDsmEoZ7i5sLVh_2YgcdjZCxc7/view?usp=sharing) |
 | 台中市教育局對 lii v2 的行政指導回函 | [Google Drive](https://drive.google.com/file/d/13GRgMr8VnZr1vB89l6Ojg_oBfOxVY6W9/view?usp=sharing) |
 | 第 23 屆育秀盃創意賽決賽簡報（PsyGuard AI） | [Google Drive](https://drive.google.com/file/d/1XAXdHfhEDtQQUdKRPOKB_UIXeg15t_Fz/view?usp=sharing) |
