@@ -24,13 +24,13 @@ PDF 版的學習資料表中，連結無法直接點擊。以下整理所有作�
 
 | 內容 | 連結 |
 | --- | --- |
-| lii 情緒健康 App v2 達文西國際發明展暨發明競賽簡報 | [Google Drive](https://drive.google.com/file/d/1G6U1kBfwChgna-WFHcQ49T828gVUuk7j/view?usp=sharing) |
-| lii 情緒健康 App v2 達文西國際發明展暨發明競賽 Demo 影片 | [YouTube](https://youtu.be/5umRRZVvEvk) |
+| lii– 情緒健康 App v2 達文西國際發明展暨發明競賽簡報 | [Google Drive](https://drive.google.com/file/d/1G6U1kBfwChgna-WFHcQ49T828gVUuk7j/view?usp=sharing) |
+| lii– 情緒健康 App v2 達文西國際發明展暨發明競賽 Demo 影片 | [YouTube](https://youtu.be/5umRRZVvEvk) |
 | 育秀盃備賽投入證明（指導老師出具） | [Google Drive](https://drive.google.com/file/d/1hD5otjYDsmEoZ7i5sLVh_2YgcdjZCxc7/view?usp=sharing) |
 | 台中市教育局對 lii v2 的行政指導回函 | [Google Drive](https://drive.google.com/file/d/13GRgMr8VnZr1vB89l6Ojg_oBfOxVY6W9/view?usp=sharing) |
 | 第 23 屆育秀盃創意賽決賽簡報（PsyGuard AI） | [Google Drive](https://drive.google.com/file/d/1XAXdHfhEDtQQUdKRPOKB_UIXeg15t_Fz/view?usp=sharing) |
 | 第 23 屆育秀盃決賽入圍影片 | [YouTube](https://youtu.be/dcJJnQ3q3RE) |
-| lii 情緒健康app 海報 | [Google Drive](https://drive.google.com/file/d/1SnPYNqzwuASP9iCpTkHBjXJXU_GWII5m/view?usp=sharing) |
+| lii– 情緒健康app 海報 | [Google Drive](https://drive.google.com/file/d/1SnPYNqzwuASP9iCpTkHBjXJXU_GWII5m/view?usp=sharing) |
 | 台灣半導體 IC 營：四子棋詳細說明 | [Google Drive](https://drive.google.com/file/d/1FKepWpDMLTwfZVywW1AMc6RnH8Jngem-/view?usp=sharing) · [營隊資料](https://drive.google.com/drive/folders/14hhr9SR_fk5rdMRpdHOL8SuospxMxPfJ?usp=sharing) |
 | 外交小尖兵英語種籽隊選拔 | [Google Drive](https://drive.google.com/file/d/1apvVwHQ1VrndTryI4obzk26AgPD-Cg9o/view?usp=sharing) |
 
@@ -139,7 +139,7 @@ PDF 版的學習資料表中，連結無法直接點擊。以下整理所有作�
 | 牙醫系博士生 | 標記點標註、資料整理 |
 | 我 | 量測計算與誤差分析（CS 側）；跨領域／跨語言協調 |
 
-### 我負責的部分
+### 我的分工
 
 **資料**：2D 側位頭影 X 光片。藍色為骨骼／解剖點，紅色為軟組織點，由人工標註。
 
@@ -158,7 +158,7 @@ PDF 版的學習資料表中，連結無法直接點擊。以下整理所有作�
 - **先手動調參，培養直覺。** 超參數搜尋可以交給 AI 工具，但她建議我這個階段先自己手調 learning rate 等參數，才知道哪個參數造成哪個效果。
 - **補底層。** 指派我先把 Python／PyTorch 熟起來，我把它當成補「backward 到底在算什麼」這一層，而不是補工具。
 
-### 我交出的東西
+### 我的產出
 
 **頭影測量模組**——從標記點座標計算角度與距離。過程中記錄了三個會讓結果錯但不會報錯的陷阱：
 
@@ -176,7 +176,7 @@ PDF 版的學習資料表中，連結無法直接點擊。以下整理所有作�
 >
 > 同樣的理由，我主張評估基準應該是 inter-observer variability 而不是絕對誤差。「模型與醫師的差距小於兩位醫師之間的差距」是比「誤差 1.3 mm」強得多的結論。
 
-### 我學到的：訓練標記點模型時的幾個原則
+### 我的收穫：訓練標記點模型時的幾個原則
 
 以下是指導討論中修正我觀念的幾個原則：
 
