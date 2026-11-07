@@ -50,7 +50,7 @@ PDF 版的學習資料表中，連結無法/不一定可直接點擊。以下整
 | Dart 語言基礎（12 章節） | [HackMD](https://hackmd.io/@acacapcsStar/ByZJxQ4wGg) |
 | Dart 語言進階 | [HackMD](https://hackmd.io/@acacapcsStar/HyiZx1mPfl) |
 | 狀態管理互動演繹 | [線上展示](https://monumental-manatee-25d736.netlify.app/state-demo.html) |
-| 機器學習基礎 | [HackMD]((https://hackmd.io/@acacapcsStar/r1Yerq2TGe)) |
+| 機器學習基礎 | [HackMD](https://hackmd.io/@acacapcsStar/r1Yerq2TGe) |
 ### 研究與研習
 
 | 內容 | 連結 |
