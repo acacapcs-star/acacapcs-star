@@ -51,6 +51,10 @@ PDF 版的學習資料表中，連結無法/不一定可直接點擊。以下整
 | Dart 語言進階 | [HackMD](https://hackmd.io/@acacapcsStar/HyiZx1mPfl) |
 | 狀態管理互動演繹 | [線上展示](https://monumental-manatee-25d736.netlify.app/state-demo.html) |
 | 機器學習基礎 | [HackMD](https://hackmd.io/@acacapcsStar/r1Yerq2TGe) |
+| 深度神經網絡 |[HackMD](https://hackmd.io/@acacapcsStar/rJ71WaCTMe)|
+| RNN與注意力機制|[HackMD](https://hackmd.io/@acacapcsStar/SkHQ1a0Tzg)|
+| Pose Estimation|[HackMD](https://hackmd.io/@acacapcsStar/HkeK2nATzx)|
+
 ### 研究與研習
 
 | 內容 | 連結 |
