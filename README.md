@@ -5,65 +5,6 @@
 
 比起把東西做出來，我更在意能不能說清楚它哪裡不成立。所以每個 repo 都會記錄失敗的實驗、放棄的構想，以及與比賽版本之間的落差。
 
-## 連結清單
-
-PDF 版的學習資料表中，連結無法/不一定可直接點擊。以下整理所有作品與佐證資料的連結。
-
-### 專案程式碼
-
-| 內容 | 連結 |
-| --- | --- |
-| 拉密 AI Agent（資訊之芽二階大作業延伸） | [GitHub](https://github.com/acacapcs-star/rummikub-ai-agent) · [詳細資料](https://drive.google.com/drive/folders/17GiNeIeJsEVXAvE4xfGt_ykxi-KK-Dxg?usp=sharing) |
-| 地牢英雄 Dungeon Agent（資訊之芽一階大作業） | [GitHub](https://github.com/acacapcs-star/dungeon-agent) · [詳細資料](https://drive.google.com/drive/folders/1CD0Ty97yHZuTU6rm9uw9k7bkT4KE6FRx?usp=sharing) |
-| lii 情緒健康 App v2 | [GitHub](https://github.com/acacapcs-star/lii) |
-| TankMan 坦克大作戰 RL Agent | [GitHub](https://github.com/acacapcs-star/TankMan-RL-Agent) · [FunAI 詳細說明](https://drive.google.com/file/d/1V3cckepyEaNcHFRyVfeu8Q8ItqYAy5xl/view?usp=sharing) |
-| YTP 少年圖靈 AI Agent | [GitHub](https://github.com/acacapcs-star/ytp-arena-agent) |
-| 數學解題作品集 | [GitHub](https://github.com/acacapcs-star/math-cpp-portfolio) |
-| 作品總覽文件 | [Google Drive](https://drive.google.com/file/d/1c9UHSMRdabkAZ_H6xwbQ9E0demYQP567/view?usp=sharing) |
-
-### 競賽簡報與海報
-
-| 內容 | 連結 |
-| --- | --- |
-| lii– 情緒健康 App v2 達文西國際發明展暨發明競賽簡報 | [Google Drive](https://drive.google.com/file/d/1G6U1kBfwChgna-WFHcQ49T828gVUuk7j/view?usp=sharing) |
-| lii– 情緒健康 App v2 達文西國際發明展暨發明競賽 Demo 影片 | [YouTube](https://youtu.be/5umRRZVvEvk) |
-| 育秀盃備賽投入證明（指導老師出具） | [Google Drive](https://drive.google.com/file/d/1hD5otjYDsmEoZ7i5sLVh_2YgcdjZCxc7/view?usp=sharing) |
-| 台中市教育局對 lii v2 的行政指導回函 | [Google Drive](https://drive.google.com/file/d/13GRgMr8VnZr1vB89l6Ojg_oBfOxVY6W9/view?usp=sharing) |
-| 第 23 屆育秀盃創意賽決賽簡報（PsyGuard AI） | [Google Drive](https://drive.google.com/file/d/1XAXdHfhEDtQQUdKRPOKB_UIXeg15t_Fz/view?usp=sharing) |
-| 第 23 屆育秀盃決賽入圍影片 | [YouTube](https://youtu.be/dcJJnQ3q3RE) |
-| lii– 情緒健康app 海報 | [Google Drive](https://drive.google.com/file/d/1SnPYNqzwuASP9iCpTkHBjXJXU_GWII5m/view?usp=sharing) |
-| 台灣半導體 IC 營：四子棋詳細說明 | [Google Drive](https://drive.google.com/file/d/1FKepWpDMLTwfZVywW1AMc6RnH8Jngem-/view?usp=sharing) · [營隊資料](https://drive.google.com/drive/folders/14hhr9SR_fk5rdMRpdHOL8SuospxMxPfJ?usp=sharing) |
-| 外交小尖兵英語種籽隊選拔 | [Google Drive](https://drive.google.com/file/d/1apvVwHQ1VrndTryI4obzk26AgPD-Cg9o/view?usp=sharing) |
-
-### 解題紀錄
-
-| 內容 | 連結 |
-| --- | --- |
-| 解題帳號 `olivialan` 總覽 | [Google Drive](https://drive.google.com/file/d/1CYa5RudK47L5y6N_2iYhEo0imSCjW6zF/view?usp=sharing) |
-| NTUCPC 精選解題紀錄 | [Google Drive](https://drive.google.com/file/d/1vaEdYv8NIrIzqF49nCD53BU_JaE23PGa/view?usp=drive_link) |
-
-### 技術筆記與互動展示
-
-| 內容 | 連結 |
-| --- | --- |
-| Flutter 框架基礎 | [HackMD](https://hackmd.io/@acacapcsStar/B1gjbe1QPfx) |
-| Flutter（11 章節） | [HackMD](https://hackmd.io/@acacapcsStar/BysFlsROGl) |
-| Dart 語言基礎（12 章節） | [HackMD](https://hackmd.io/@acacapcsStar/ByZJxQ4wGg) |
-| Dart 語言進階 | [HackMD](https://hackmd.io/@acacapcsStar/HyiZx1mPfl) |
-| 狀態管理互動演繹 | [線上展示](https://monumental-manatee-25d736.netlify.app/state-demo.html) |
-| 機器學習基礎 | [HackMD](https://hackmd.io/@acacapcsStar/r1Yerq2TGe) |
-| 深度神經網絡 |[HackMD](https://hackmd.io/@acacapcsStar/rJ71WaCTMe)|
-| RNN與注意力機制|[HackMD](https://hackmd.io/@acacapcsStar/SkHQ1a0Tzg)|
-| Pose Estimation|[HackMD](https://hackmd.io/@acacapcsStar/HkeK2nATzx)|
-
-### 研究與研習
-
-| 內容 | 連結 |
-| --- | --- |
-| 2026 TAICA 進階研習營紀錄 | [Google Drive](https://drive.google.com/drive/folders/1q73yGmF0GUD75-SJJISMVc3VvH_JXCls?usp=sharing) |
-| 側顱影像AI 參考的開源程式碼（CL-Detection 2023） | [GitHub](https://github.com/5k5000/CLdetection2023) |
-| 成功大學蘇文鈺教授貼文 | [Facebook](https://www.facebook.com/share/p/1Dbiz1FTzU/) |
-
 ## 一條貫穿的線
 
 六個專案做的其實是同一件事：區分「我以為的」和「實際上的」。
@@ -128,6 +69,67 @@ PDF 版的學習資料表中，連結無法/不一定可直接點擊。以下整
 | 2026 起 | 側顱影像AI：頭影測量與誤差分析 | 醫學大學牙醫研究團隊 × 大學資工實驗室 | 頭影測量指標計算與蒙地卡羅誤差傳播；主持跨領域雙語會議 | CS 側負責人；詳見下節 |
 | 2026 | TAICA 課程助教研習營：機器導航與探索 · 模仿式學習與機器人操縱 | TAICA 聯盟／清大·成大·陽明交大資工系／臺科大 AI 跨域所（教育部指導） | ROS、SLAM 與導航、物件辨識、模仿式學習訓練機器人取放任務 | 第二階段限額 30 人，唯一高中生 |
 | 2026 | IONC 清大資奧研習營 | 清華大學 | 演算法：複雜度、資料結構、DP、圖論、數論與組合、賽局 | 受到審查智囊團的極度肯定——總召寄信證明 |
+---
+
+
+## 連結清單
+
+PDF 版的學習資料表中，連結無法/不一定可直接點擊。以下整理所有作品與佐證資料的連結。
+
+### 專案程式碼
+
+| 內容 | 連結 |
+| --- | --- |
+| 拉密 AI Agent（資訊之芽二階大作業延伸） | [GitHub](https://github.com/acacapcs-star/rummikub-ai-agent) · [詳細資料](https://drive.google.com/drive/folders/17GiNeIeJsEVXAvE4xfGt_ykxi-KK-Dxg?usp=sharing) |
+| 地牢英雄 Dungeon Agent（資訊之芽一階大作業） | [GitHub](https://github.com/acacapcs-star/dungeon-agent) · [詳細資料](https://drive.google.com/drive/folders/1CD0Ty97yHZuTU6rm9uw9k7bkT4KE6FRx?usp=sharing) |
+| lii 情緒健康 App v2 | [GitHub](https://github.com/acacapcs-star/lii) |
+| TankMan 坦克大作戰 RL Agent | [GitHub](https://github.com/acacapcs-star/TankMan-RL-Agent) · [FunAI 詳細說明](https://drive.google.com/file/d/1V3cckepyEaNcHFRyVfeu8Q8ItqYAy5xl/view?usp=sharing) |
+| YTP 少年圖靈 AI Agent | [GitHub](https://github.com/acacapcs-star/ytp-arena-agent) |
+| 數學解題作品集 | [GitHub](https://github.com/acacapcs-star/math-cpp-portfolio) |
+| 作品總覽文件 | [Google Drive](https://drive.google.com/file/d/1c9UHSMRdabkAZ_H6xwbQ9E0demYQP567/view?usp=sharing) |
+
+### 競賽簡報與海報
+
+| 內容 | 連結 |
+| --- | --- |
+| lii– 情緒健康 App v2 達文西國際發明展暨發明競賽簡報 | [Google Drive](https://drive.google.com/file/d/1G6U1kBfwChgna-WFHcQ49T828gVUuk7j/view?usp=sharing) |
+| lii– 情緒健康 App v2 達文西國際發明展暨發明競賽 Demo 影片 | [YouTube](https://youtu.be/5umRRZVvEvk) |
+| 育秀盃備賽投入證明（指導老師出具） | [Google Drive](https://drive.google.com/file/d/1hD5otjYDsmEoZ7i5sLVh_2YgcdjZCxc7/view?usp=sharing) |
+| 台中市教育局對 lii v2 的行政指導回函 | [Google Drive](https://drive.google.com/file/d/13GRgMr8VnZr1vB89l6Ojg_oBfOxVY6W9/view?usp=sharing) |
+| 第 23 屆育秀盃創意賽決賽簡報（PsyGuard AI） | [Google Drive](https://drive.google.com/file/d/1XAXdHfhEDtQQUdKRPOKB_UIXeg15t_Fz/view?usp=sharing) |
+| 第 23 屆育秀盃決賽入圍影片 | [YouTube](https://youtu.be/dcJJnQ3q3RE) |
+| lii– 情緒健康app 海報 | [Google Drive](https://drive.google.com/file/d/1SnPYNqzwuASP9iCpTkHBjXJXU_GWII5m/view?usp=sharing) |
+| 台灣半導體 IC 營：四子棋詳細說明 | [Google Drive](https://drive.google.com/file/d/1FKepWpDMLTwfZVywW1AMc6RnH8Jngem-/view?usp=sharing) · [營隊資料](https://drive.google.com/drive/folders/14hhr9SR_fk5rdMRpdHOL8SuospxMxPfJ?usp=sharing) |
+| 外交小尖兵英語種籽隊選拔 | [Google Drive](https://drive.google.com/file/d/1apvVwHQ1VrndTryI4obzk26AgPD-Cg9o/view?usp=sharing) |
+
+### 解題紀錄
+
+| 內容 | 連結 |
+| --- | --- |
+| 解題帳號 `olivialan` 總覽 | [Google Drive](https://drive.google.com/file/d/1CYa5RudK47L5y6N_2iYhEo0imSCjW6zF/view?usp=sharing) |
+| NTUCPC 精選解題紀錄 | [Google Drive](https://drive.google.com/file/d/1vaEdYv8NIrIzqF49nCD53BU_JaE23PGa/view?usp=drive_link) |
+
+### 技術筆記與互動展示
+
+| 內容 | 連結 |
+| --- | --- |
+| Flutter 框架基礎 | [HackMD](https://hackmd.io/@acacapcsStar/B1gjbe1QPfx) |
+| Flutter（11 章節） | [HackMD](https://hackmd.io/@acacapcsStar/BysFlsROGl) |
+| Dart 語言基礎（12 章節） | [HackMD](https://hackmd.io/@acacapcsStar/ByZJxQ4wGg) |
+| Dart 語言進階 | [HackMD](https://hackmd.io/@acacapcsStar/HyiZx1mPfl) |
+| 狀態管理互動演繹 | [線上展示](https://monumental-manatee-25d736.netlify.app/state-demo.html) |
+| 機器學習基礎 | [HackMD](https://hackmd.io/@acacapcsStar/r1Yerq2TGe) |
+| 深度神經網絡 |[HackMD](https://hackmd.io/@acacapcsStar/rJ71WaCTMe)|
+| RNN與注意力機制|[HackMD](https://hackmd.io/@acacapcsStar/SkHQ1a0Tzg)|
+| Pose Estimation|[HackMD](https://hackmd.io/@acacapcsStar/HkeK2nATzx)|
+
+### 研究與研習
+
+| 內容 | 連結 |
+| --- | --- |
+| 2026 TAICA 進階研習營紀錄 | [Google Drive](https://drive.google.com/drive/folders/1q73yGmF0GUD75-SJJISMVc3VvH_JXCls?usp=sharing) |
+| 側顱影像AI 參考的開源程式碼（CL-Detection 2023） | [GitHub](https://github.com/5k5000/CLdetection2023) |
+| 成功大學蘇文鈺教授貼文 | [Facebook](https://www.facebook.com/share/p/1Dbiz1FTzU/) |
 
 ---
 ## 側顱影像AI：頭影測量與誤差分析
