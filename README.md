@@ -131,7 +131,47 @@ PDF 版的學習資料表中，連結無法/不一定可直接點擊。以下整
 | 側顱影像AI 參考的開源程式碼（CL-Detection 2023） | [GitHub](https://github.com/5k5000/CLdetection2023) |
 | 成功大學蘇文鈺教授貼文 | [Facebook](https://www.facebook.com/share/p/1Dbiz1FTzU/) |
 
----
+
+## 解題紀錄
+
+| 平台 | 帳號 | 進度 |
+| --- | --- | --- |
+| NTUCPC | [olivialan](https://oj.ntucpc.org/users/olivialan) | 76 題 AC（Loop／Array／String／多維陣列／Function 專題） |
+| TIOJ（資訊之芽） | [olivialan](https://tioj.sprout.tw/users/olivialan) | 64 題 AC |
+| CSES | [olivialan](https://cses.fi/user/347743) | Introductory Problems 6 題；另含 Stick Game（賽局）、Counting Divisors（數論） |
+| AtCoder | [olivialan](https://atcoder.jp/users/olivialan) | Boot camp for Beginners：Easy 27/100 · Medium 40/100 |
+
+NTUCPC 的題目中，我挑出 6 題數學性最強的整理成 [math-cpp-portfolio](https://github.com/acacapcs-star/math-cpp-portfolio)。
+
+## 我怎麼練
+
+一開始練 NTUCPC 是為了把語法練熟。家教給我的規定只有一條：不准查 AI——理由是會被 AI 的語法風格帶走，寫出自己不理解的程式碼。
+
+前三分之一的題目，我一題要花 2–3 小時，而且大多是 WA。後來改成先慢下來，按固定順序做：
+
+1. 先寫出大致架構（宣告／輸入／處理／輸出）
+2. 註解標出極端值與可能踩的坑
+3. 動筆前先分析時間與空間複雜度，避免寫完才發現 TLE
+
+練到三分之一的時候，一題雙重陣列的 DP 讓我第一次做到「3 次以內自我 debug 就 AC」，總共 1.5 小時。之後我開始在每題之前先確認上一次同類型題目 WA 的原因。中段的題目穩定在 45 分鐘到 1.5 小時、3 次以內 AC。
+
+現在的節奏大約是：前 15 分鐘理解題意並找規律、40 分鐘實作（先搭外框再填初始化／計算／轉移）、30 分鐘測試（常態測資與 edge case 分開跑）。
+
+### 三種錯誤，三種處理
+
+| 錯誤 | 我的做法 |
+| --- | --- |
+| WA | 重新審視邏輯，精簡註解重讀一次 |
+| TLE | 換位思考，想辦法把 O(N²) 壓到 O(N log N) 或 O(N) |
+| CE | 二分切開排查——把程式碼切一半確認問題在哪一區；檢查大括號是否對稱、分號、以及 float/double 的精度 |
+
+### 一些習慣
+
+- 不用 `<bits/stdc++.h>`，改成 `<iostream>` 加上實際需要的標頭檔。分開寫才知道自己在用什麼
+- 大括號一定換行分區塊，不寫一路到底的程式碼
+- 變數命名固定：迴圈用 `i, j, k`，累計用 `ans, sum, cnt`
+
+這條「不查 AI」的規則，跟我在專案 README 裡揭露 AI 協助範圍是同一件事的兩面——要能說清楚哪些是自己想出來的，前提是真的有一段時間完全靠自己想。---
 ## 側顱影像AI：頭影測量與誤差分析
 
 > 本專案統一稱為「**側顱影像AI**」。學習資料表中的「齒顎矯正 AI 專案」、三折頁上的「側顱影像AI」，指的都是這個專案。
@@ -217,48 +257,6 @@ PDF 版的學習資料表中，連結無法/不一定可直接點擊。以下整
 - **Python／PyTorch**——從 NumPy 到 autograd，用手算驗證 backward
 
 ---
-
-## 解題紀錄
-
-| 平台 | 帳號 | 進度 |
-| --- | --- | --- |
-| NTUCPC | [olivialan](https://oj.ntucpc.org/users/olivialan) | 76 題 AC（Loop／Array／String／多維陣列／Function 專題） |
-| TIOJ（資訊之芽） | [olivialan](https://tioj.sprout.tw/users/olivialan) | 64 題 AC |
-| CSES | [olivialan](https://cses.fi/user/347743) | Introductory Problems 6 題；另含 Stick Game（賽局）、Counting Divisors（數論） |
-| AtCoder | [olivialan](https://atcoder.jp/users/olivialan) | Boot camp for Beginners：Easy 27/100 · Medium 40/100 |
-
-NTUCPC 的題目中，我挑出 6 題數學性最強的整理成 [math-cpp-portfolio](https://github.com/acacapcs-star/math-cpp-portfolio)。
-
-## 我怎麼練
-
-一開始練 NTUCPC 是為了把語法練熟。家教給我的規定只有一條：不准查 AI——理由是會被 AI 的語法風格帶走，寫出自己不理解的程式碼。
-
-前三分之一的題目，我一題要花 2–3 小時，而且大多是 WA。後來改成先慢下來，按固定順序做：
-
-1. 先寫出大致架構（宣告／輸入／處理／輸出）
-2. 註解標出極端值與可能踩的坑
-3. 動筆前先分析時間與空間複雜度，避免寫完才發現 TLE
-
-練到三分之一的時候，一題雙重陣列的 DP 讓我第一次做到「3 次以內自我 debug 就 AC」，總共 1.5 小時。之後我開始在每題之前先確認上一次同類型題目 WA 的原因。中段的題目穩定在 45 分鐘到 1.5 小時、3 次以內 AC。
-
-現在的節奏大約是：前 15 分鐘理解題意並找規律、40 分鐘實作（先搭外框再填初始化／計算／轉移）、30 分鐘測試（常態測資與 edge case 分開跑）。
-
-### 三種錯誤，三種處理
-
-| 錯誤 | 我的做法 |
-| --- | --- |
-| WA | 重新審視邏輯，精簡註解重讀一次 |
-| TLE | 換位思考，想辦法把 O(N²) 壓到 O(N log N) 或 O(N) |
-| CE | 二分切開排查——把程式碼切一半確認問題在哪一區；檢查大括號是否對稱、分號、以及 float/double 的精度 |
-
-### 一些習慣
-
-- 不用 `<bits/stdc++.h>`，改成 `<iostream>` 加上實際需要的標頭檔。分開寫才知道自己在用什麼
-- 大括號一定換行分區塊，不寫一路到底的程式碼
-- 變數命名固定：迴圈用 `i, j, k`，累計用 `ans, sum, cnt`
-
-這條「不查 AI」的規則，跟我在專案 README 裡揭露 AI 協助範圍是同一件事的兩面——要能說清楚哪些是自己想出來的，前提是真的有一段時間完全靠自己想。
-
 ## 補基礎：從呼叫 API 到知道裡面在做什麼
 
 TankMan 那個專案我用 Stable Baselines3 跑 PPO，拿到了名次。但那是呼叫現成的實作——我不知道 backward 在做什麼、不知道 learning rate 調高為什麼會讓 loss 震盪、也不知道為什麼不能只更新網路的一部分。
