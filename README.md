@@ -25,6 +25,7 @@
 | [TankMan-RL-Agent](https://github.com/acacapcs-star/TankMan-RL-Agent) | 用 PPO 訓練坦克決策系統，拆成瞄準／追擊／補給三個子任務 | 三人團隊，我負責 RL 模組 | Python |
 | [dungeon-agent](https://github.com/acacapcs-star/dungeon-agent) | 資訊之芽一階大作業：回合制地牢引擎與「區域壓力場」AI agent，附結業後的除錯檢討 | 個人 | C++ |
 | [math-cpp-portfolio](https://github.com/acacapcs-star/math-cpp-portfolio) | 數理解題紀錄：預處理、BFS 連通性、三維枚舉、離散化誤差控制 | 個人 | C++ |
+| [cephalometric-analysis](https://github.com/acacapcs-star/cephalometric-analysis) | 側顱 X 光頭影測量:從標記點座標計算 18 項臨床測量,含 Monte Carlo 誤差分析與 Tweed 幾何自檢 | 跨校牙醫×資工合作,負責量測與誤差分析（CS 側） | Python/Pytorch/machine learning |
 
 ## 競賽與獎項
 
